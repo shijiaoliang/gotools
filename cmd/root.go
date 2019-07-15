@@ -22,9 +22,9 @@ import (
 var cfgFile string
 
 var rootCmd = &cobra.Command{
-	Use:   "app",
-	Short: "A brief description of app",
-	Long:  `A longer description of app`,
+	Use:   "gotools",
+	Short: "gotools",
+	Long:  `gotools`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
